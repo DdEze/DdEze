@@ -6,7 +6,7 @@ Soy estudiante avanzado de la carrera **Licenciatura en Sistemas**, apasionado p
 🌱 Estoy profundizando mis conocimientos en **desarrollo móvil**, **Node.js** y **bases de datos**  
 💬 Me interesa colaborar en proyectos abiertos, aprender en equipo y mejorar mis habilidades en desarrollo fullstack  
 📫 Podés contactarme por [LinkedIn][(https://linkedin.com/in/ezequiel-dev)](https://www.linkedin.com/in/ezequiel-de-dominicis-435609205/)  
-🌐 Mi portafolio: [[ezequiel-dev.netlify.app](https://ezequiel-dev.netlify.app)](https://portafolio-de-dominicis.vercel.app/)
+🌐 Mi portafolio:(https://ezequiel-dev.netlify.app)](https://portafolio-de-dominicis.vercel.app/)
 
 ---
 
