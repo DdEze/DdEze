@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="[./assets/banner.jpg](https://images.unsplash.com/photo-1742072593996-ebdc5d605a54?q=80&w=840&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)"
+    src="./rahul-mishra-yxSidVe5yVs-unsplash.jpg"
     alt="Ilustración tecnológica de datos y almacenamiento"
     width="100%"
   />
