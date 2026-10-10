@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="[https://media.istockphoto.com/id/2177718103/es/foto/futuristic-digital-data-transfer-concept-high-speed-data-flow-of-cryptocurrency-servers.jpg?s=612x612&w=0&k=20&c=sWqcl5gg4X9pJ-6kwYMAKL6Ej7wo9nabBtfkP2Y4ODI=](https://images.unsplash.com/photo-1742072593996-ebdc5d605a54?q=80&w=840&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)" alt="Banner Ezequiel" width="800"/>
+  <img
+    src="[./assets/banner.jpg](https://images.unsplash.com/photo-1742072593996-ebdc5d605a54?q=80&w=840&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)"
+    alt="Ilustración tecnológica de datos y almacenamiento"
+    width="100%"
+  />
 </p>
 
 # 👋 ¡Hola! Soy Ezequiel De Dominicis
