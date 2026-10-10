@@ -1,8 +1,10 @@
+html
 <p align="center">
   <img
     src="./rahul-mishra-yxSidVe5yVs-unsplash.jpg"
     alt="Ilustración tecnológica de datos y almacenamiento"
     width="100%"
+    height="180"
   />
 </p>
 
